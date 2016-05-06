@@ -5,6 +5,10 @@ p {
     font-size: 40px;
 }
 
+img {
+  width: 200px;
+}
+
 body {
     color: white;
 }
